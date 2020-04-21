@@ -80,7 +80,7 @@ body{background:#F7F9FC;color:#41475D;}
 .menubox{padding:0 50px;height:60px;}
 .menubox .logo{float:left;height:60px;}
 .menubox .logo>a{display:block;vertical-align:middle;height:60px;line-height:60px;}
-.menubox .logo>a img{display:inline;}
+.menubox .logo>a img{  width:150px;height: 40px;}
 .menubox ul{float:right;padding:15px 0;overflow:hidden;}
 .menubox li{float:left;font-size:16px;color:#9BAFC3;margin-left:80px;}
 .menubox li>a{display:block;line-height:30px;color:#9BAFC3;}
