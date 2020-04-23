@@ -95,7 +95,7 @@ body{background:#F7F9FC;color:#41475D;}
 /*footer*/
 .footer{background:#0F1629;padding-top:60px;position:relative;}
 .footer .f1{float:left;}
-.footer .f1 .logo{margin-bottom:40px;}
+.footer .f1 .logo{margin-bottom:40px; width:150px;height: 40px;}
 .footer .f1 .text1{height:22px;line-height:22px;color:#9BAFC3;font-size:12px;}
 .footer .f1 ul{margin-top:25px;}
 .footer .f1 ul li{width:35px;height:35px;float:left;margin-right:20px;border-radius:50%;border:1px solid #9BAFC3;transition: all .35s ease;}
