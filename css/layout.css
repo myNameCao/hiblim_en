@@ -199,7 +199,7 @@ body{background:#F7F9FC;color:#41475D;}
 .block5{border-top:1px solid #E5E5E5;padding:30px 0;}
 .block5 .item{width:1200px;height:320px;border-radius:5px;overflow:hidden;margin:0 0 80px 0;cursor:pointer;box-shadow: 0 0 5px rgba(0,0,0,0.05);}
 .block5 .item .txt{width:500px;height:320px;background:#fff;padding:0 50px;float:left;display:table;}
-.block5 .item .txt .h2{font-size:30px;line-height:40px;height:40px;color:#41475D;}
+.block5 .item .txt .h2{font-size:30px;line-height:40px;height:40px;color:#41475D;  margin-bottom: 20px;}
 .block5 .item .txt p{font-size:20px;color:#41475D;margin-top:15px;line-height:28px;}
 .block5 .item .img{width:600px;height:320px;float:right;}
 .block5 .item .img img{width:100%;height:100%;}
