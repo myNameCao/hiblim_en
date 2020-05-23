@@ -2,7 +2,8 @@
 
 域名
 
-http://hk.hiblim.com/
+http://www.hiblim.com
+
 
 
 /service/hiblim 目录
